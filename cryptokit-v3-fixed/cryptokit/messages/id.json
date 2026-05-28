@@ -1,0 +1,39 @@
+{
+  "nav": { "tools": "Alat", "useCases": "Kasus", "exchanges": "Bursa", "blog": "Blog" },
+  "tools": {
+    "liquidation": "Likuidasi", "profit": "Profit / PnL", "dca": "DCA", "risk": "Manajemen Risiko",
+    "liqTitle": "Kalkulator Likuidasi Futures", "profitTitle": "Kalkulator Profit / PnL",
+    "dcaTitle": "Kalkulator DCA", "riskTitle": "Ukuran Posisi & Manajemen Risiko",
+    "capital": "Modal (USDT)", "leverage": "Leverage", "entryPrice": "Harga Masuk ($)",
+    "direction": "Arah", "long": "Long (beli)", "short": "Short (jual)",
+    "liqPrice": "Harga Likuidasi", "dropNeeded": "Penurunan diperlukan", "positionSize": "Ukuran Posisi",
+    "pnl": "PnL (USDT)", "roe": "ROE %", "priceChange": "Perubahan harga",
+    "targetPrice": "Harga Target ($)", "avgCost": "Biaya Rata-rata", "totalInvested": "Total Investasi",
+    "totalCoins": "Total Koin", "addBuy": "+ Tambah pembelian", "totalCapital": "Total Modal (USDT)",
+    "riskPerTrade": "Risiko per trade (%)", "stoploss": "Stop-loss ($)",
+    "maxLoss": "Kerugian Maks", "recPosition": "Posisi Anjuran", "slDistance": "Jarak SL"
+  },
+  "cta": {
+    "open": "Buka",
+    "profitHdr": "Trade setup ini di exchange berbiaya rendah",
+    "dcaHdr": "Exchange dengan fitur DCA / beli berkala",
+    "riskHdr": "Exchange dengan alat manajemen risiko canggih",
+    "liqHighHdr": "Exchange dengan alat manajemen risiko lebih baik:",
+    "liqLowHdr": "Anda menggunakan leverage rendah. Exchange berbiaya kompetitif:",
+    "warnHigh": "Peringatan: leverage x{lev} memiliki risiko likuidasi sangat tinggi.",
+    "warnMid": "Catatan: leverage x{lev} sedang — pantau harga likuidasi Anda."
+  },
+  "useCases": {
+    "subtitle": "Temukan exchange yang tepat untuk gaya trading Anda.",
+    "smallTitle": "Terbaik untuk akun $100", "smallSub": "Deposit minimum rendah · biaya rendah",
+    "scalpTitle": "Terbaik untuk scalping", "scalpSub": "Biaya maker sangat rendah · eksekusi cepat",
+    "copyTitle": "Copy trading terbaik", "copySub": "Ikuti trader profesional secara otomatis",
+    "mobileTitle": "Aplikasi mobile terbaik", "mobileSub": "Trading kapan saja, UI mulus"
+  },
+  "exchanges": {
+    "tier1Note": "bursa terbesar berdasarkan volume, rekam jejak keamanan yang kuat.",
+    "tier1Link": "Baca ulasan lengkap kami →",
+    "tier2Label": "Tier 2 — Exchange Berkembang",
+    "tierFootnote": "Binance juga merupakan pilihan yang andal — "
+  }
+}
